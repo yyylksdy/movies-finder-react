@@ -1,7 +1,7 @@
 /* @flow */
 import axios from 'axios'
 
-const apiKey: string = '8d181bcb5e80a929053da01f6921e4a9'
+const apiKey: string = 'd7a3a18bf1f75a32e20a4c21012ba47b'
 
 export default {
   getMovies: (category: string) => {
